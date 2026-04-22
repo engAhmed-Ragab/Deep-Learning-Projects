@@ -47,4 +47,4 @@ A deep learning project that builds an AI assistant for PDF books using **BART**
 - Support multi-book conversations
 
 ## Author
-Yomna Ragab
+Ahmed Ragab
